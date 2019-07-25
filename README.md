@@ -16,7 +16,7 @@ const node_config = {
   httpEndpoint: node_url,
   chainId
 }
-const res = await window.mathExtension.getIdentity({blockchain, chainId});
+const res = await window.mathExtension.getIdentity(node_config);
 console.log(res.accounts);
 ```
 #### Transfer
