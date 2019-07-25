@@ -6,7 +6,7 @@ npm run serve
 ## Use
 
 #### Login
-```
+``` javascript
 // Blockchain
 const node_config = {
   blockchain,   // "codex"
