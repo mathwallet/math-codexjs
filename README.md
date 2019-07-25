@@ -1,29 +1,12 @@
-# samples
+# math-codexjs
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
+## Run
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Codex.js
+https://github.com/codexnetwork/codex-js
 
-### Run your tests
-```
-npm run test
-```
+## Test
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1 Install MathWallet Browser Extension
+https://medishares-cn.oss-cn-hangzhou.aliyuncs.com/extension/mathwalletplus-codex.zip
