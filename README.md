@@ -8,7 +8,7 @@ npm run serve
 #### Login
 ```
 // Blockchain
-cconst node_config = {
+const node_config = {
   blockchain,   // "codex"
   httpEndpoint: node_url,
   chainId
