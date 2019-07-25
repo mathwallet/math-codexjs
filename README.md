@@ -1,7 +1,9 @@
 # math-codexjs
 
 ## Run
+
 npm install
+
 npm run serve
 
 ## Use
